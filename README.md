@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Terraform
 ![Terraform Setup](terraform.jpg)
 
