@@ -1,3 +1,4 @@
+![terraform](https://github.com/user-attachments/assets/950e448a-b556-48ad-9465-c29cf776df0b)
 We need to understand what are the advantages and problems terraform is solving. It is popular infrastructure as a tool (IaC) tool as of now. Advantages of IaC are
 
 **Version Control:**
